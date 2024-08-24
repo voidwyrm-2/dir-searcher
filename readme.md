@@ -5,9 +5,9 @@ And now we have this!(it actually works pretty well, I'm very proud of my patter
 ## NOTE TO SELF, ADD PATTERN SYSTEM EXPLAINATION
 
 ## Flags
-* `-pf` | `-f` | `--printfiles`: prints the contents of files that match the pattern; default false
-* `-pd` | `-p` | `--printdirs`: prints directories that match the pattern; default false
-* `-w` | `--windows`: use Windows path separators instead of Unix path separators for patterns(e.g. `?-test\?.txt` instead of `?-test/?.txt`); default false<!--only use this one if you're a weirdo-->
+* `-pf` or `-f` or `--printfiles`: prints the contents of files that match the pattern; default false
+* `-pd` or `-p` or `--printdirs`: prints directories that match the pattern; default false
+* `-w` or `--windows`: use Windows path separators instead of Unix path separators for patterns(e.g. `?-test\?.txt` instead of `?-test/?.txt`); default false<!--only use this one if you're a weirdo-->
 
 ## Installation
 **Requirements**
