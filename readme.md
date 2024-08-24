@@ -19,6 +19,9 @@ Then, run this command:
 ```sh
 go install "github.com/voidwyrm-2/dir-searcher@latest"
 ```
+
+<br>
+
 **If you have an issue, report it in issues!**
 
 ### This repo is licensed under the [MIT license](./LICENSE)
